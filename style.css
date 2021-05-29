@@ -1,0 +1,152 @@
+body,html{
+    width:100%;
+    height: 100%;
+    margin: 0;
+    font-family: Verdana, Geneva, sans-serif;
+    overflow-x: hidden; //horizontal
+}
+a{
+    margin-left: 30px;
+}
+.container{
+    display: block;
+    padding-top: 90px;
+    box-sizing: border-box;
+}
+.left-content{
+    position: fixed;
+}
+
+.ved{
+    margin-left: 230px;
+    width: 315px;    
+}
+.ved2{
+    margin-left: 20px;
+    width: 335px;
+}
+.vid3{
+    margin-left: 50px;
+    width: 315px;
+}
+.fle{
+    display: flex;
+    width: 100%;
+}
+.right-content{
+    float: right;   
+    border-left: 8px solid #ff8080;
+}
+.fora{
+    text-align: center;
+}
+.ji{
+    padding-left:200px;
+}
+@media only screen and (max-width: 450px){
+  body{
+      padding: 0%;
+      width: 390px;
+  }
+    .ji{
+        padding-left:0px;
+    }
+  .container{
+      padding: 0%;
+      padding-top: 120px;
+  }
+  .left-content{
+      position: relative;
+  }  
+  .img1{
+      width: 320px;
+      height: 165.58px;
+  }
+  .right-content{
+      border: none;
+      padding: 0%;
+  }
+  .ved{
+      padding-left: 30px;
+      padding-top: 30px;
+      margin-left: 0px;
+  }
+  .ved2{
+    padding-left: 30px;
+    padding-top: 30px;
+    margin-left: 3px;
+  }
+  
+  .ved3{
+    padding-left: 30px;
+    padding-top: 30px;
+    margin-left: 0px;
+  }
+  .fle{
+      display: block;
+  }
+  .change{
+      font-size: 35px;
+  }
+  .fora{
+      padding-left: 0px;
+      margin-left: 0px;
+  }
+}
+
+@media only screen and (max-width: 900px) and (min-width: 450px){
+    body{
+        padding: 0%;
+        width: 550px;
+    }
+    .container{
+        padding: 0%;
+        padding-top: 120px;
+    }
+    .left-content{
+        position: relative;
+    }  
+    .img1{
+        width: 500px;
+    }
+    .right-content{
+        border: none;
+        padding: 0%;
+    }
+    .ved{
+        padding-left: 35px;
+        padding-top: 30px;
+    }
+    .fle{
+        display: block;
+    }
+    .change{
+        font-size: 40px;
+    }
+  }
+@media only screen and (min-width: 700px)
+{
+    .mar{
+        margin-top: 1300px;
+    }
+    .m{
+        margin-top:6800px;
+    }
+    .ma{
+        margin-top: 2000px;
+    }
+    .maro{
+        margin-top: 0px;
+    }
+}
+  h1, .heading{
+    font-family: 'Raleway', sans-serif;
+    color: #262161;
+}
+.anchor{
+    margin-left: 0%;
+}
+.comm{
+    color: white;
+    background-color: #3d3d29;
+}

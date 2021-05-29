@@ -1,0 +1,32 @@
+body,html{
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden ;
+}
+
+.head{
+    width: 100%;
+    text-align: center;
+    padding-top: 90px;
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+    color: #262161;
+
+}
+table{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.t{
+    border: 2px solid black;
+    border-radius: 50%;
+}
+h4{
+    text-align: center;
+}
+.ab{
+    padding-left: 20%;
+}
