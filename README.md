@@ -25,7 +25,7 @@ The Tech Stack used to make the project is
 
 ## Graphical User Interface
 
-
+![alt text](https://drive.google.com/file/d/1Mw6V29KgLKEHhLfax-LVAZbP8nXZh3y8/view?usp=drivesdk)
 
 ## Folders and Project Information
 
@@ -54,5 +54,5 @@ Kunal Aggarwal-[https://www.linkedin.com/in/kunalaggarwal683/]
 </br>
 Nidhi Chaurasia-[https://www.linkedin.com/in/nidhi-chaurasia-62b0781bb/]
 </br>
-Meenakshi sharma-[https://www.linkedin.com/in/nidhi-chaurasia-62b0781bb/]
+Meenakshi sharma-[https://www.linkedin.com/in/meenakshi-sharma-919ab518b]
 
