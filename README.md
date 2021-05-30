@@ -25,7 +25,41 @@ The Tech Stack used to make the project is
 
 ## Graphical User Interface
 
-![alt text](https://drive.google.com/file/d/1Mw6V29KgLKEHhLfax-LVAZbP8nXZh3y8/view?usp=drivesdk)
+<p align="center">
+  <h2 align="center">MAPS/ Front GUI</h3>
+  <p align="center">
+  </p>
+</p>
+<p align="center">
+<img src="https://github.com/Anupamgupta01/Project-Kavach/blob/master/Output/Front.JPG?raw=true" alt="drawing" width="350"/>
+</p>
+
+<p align="center">
+  <h2 align="center">Medical Assistance/ Video Calling Functionality</h3>
+  <p align="center">
+  </p>
+</p>
+<p align="center">
+<img src="https://github.com/Anupamgupta01/Project-Kavach/blob/master/Output/Medical.JPG?raw=true" alt="drawing" width="350"/>
+</p>
+
+<p align="center">
+  <h2 align="center">Covid-19 Detection using X-Ray</h3>
+  <p align="center">
+  </p>
+</p>
+<p align="center">
+<img src="https://github.com/Anupamgupta01/Project-Kavach/blob/master/Output/detect.JPG?raw=true" alt="drawing" width="350"/>
+</p>
+
+<p align="center">
+  <h2 align="center">Social Distancing</h3>
+  <p align="center">
+  </p>
+</p>
+<p align="center">
+<img src="https://github.com/Anupamgupta01/Project-Kavach/blob/master/Output/social.JPG?raw=true" alt="drawing" width="350"/>
+</p>
 
 ## Folders and Project Information
 
