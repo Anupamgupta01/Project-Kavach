@@ -31,7 +31,7 @@ The Tech Stack used to make the project is
   </p>
 </p>
 <p align="center">
-<img src="https://github.com/Anupamgupta01/Project-Kavach/blob/master/Output/Front.JPG?raw=true" alt="drawing" width="350"/>
+<img src="https://github.com/Anupamgupta01/Project-Kavach/blob/master/Output/Front.jpg?raw=true" alt="drawing" width="350"/>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ The Tech Stack used to make the project is
   </p>
 </p>
 <p align="center">
-<img src="https://github.com/Anupamgupta01/Project-Kavach/blob/master/Output/Medical.JPG?raw=true" alt="drawing" width="350"/>
+<img src="https://github.com/Anupamgupta01/Project-Kavach/blob/master/Output/Medical.jpg?raw=true" alt="drawing" width="350"/>
 </p>
 
 <p align="center">
